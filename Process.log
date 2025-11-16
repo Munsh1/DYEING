@@ -1,0 +1,26 @@
+Line 20: Class Crystal.CrystalReport of control crptDaily was not a loaded control class.
+Line 29: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 85: Class MSComctlLib.ListView of control lvwphase was not a loaded control class.
+Line 23: The property name _ExtentX in crptDaily is invalid.
+Line 24: The property name _ExtentY in crptDaily is invalid.
+Line 25: The property name _Version in crptDaily is invalid.
+Line 26: The property name Destination in crptDaily is invalid.
+Line 27: The property name PrintFileLinesPerPage in crptDaily is invalid.
+Line 32: The property name _ExtentX in ImageList1 is invalid.
+Line 33: The property name _ExtentY in ImageList1 is invalid.
+Line 35: The property name ImageWidth in ImageList1 is invalid.
+Line 36: The property name ImageHeight in ImageList1 is invalid.
+Line 37: The property name MaskColor in ImageList1 is invalid.
+Line 38: The property name _Version in ImageList1 is invalid.
+Line 77: The property name Images in ImageList1 is invalid.
+Line 91: The property name _ExtentX in lvwphase is invalid.
+Line 92: The property name _ExtentY in lvwphase is invalid.
+Line 93: The property name View in lvwphase is invalid.
+Line 94: The property name LabelEdit in lvwphase is invalid.
+Line 95: The property name MultiSelect in lvwphase is invalid.
+Line 96: The property name LabelWrap in lvwphase is invalid.
+Line 97: The property name HideSelection in lvwphase is invalid.
+Line 98: The property name FullRowSelect in lvwphase is invalid.
+Line 99: The property name GridLines in lvwphase is invalid.
+Line 100: The property name _Version in lvwphase is invalid.
+Line 105: The property name NumItems in lvwphase is invalid.
