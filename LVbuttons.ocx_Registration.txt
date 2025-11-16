@@ -1,0 +1,2 @@
+regsvr32 "C:\WINNT\system32\LVbuttons.ocx"
+regsvr32 "C:\WINDOWS\system32\MSCOMCTL.ocx"
